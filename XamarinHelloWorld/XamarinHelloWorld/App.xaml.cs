@@ -13,6 +13,7 @@ namespace XamarinHelloWorld
 		{
 			InitializeComponent();
 			MainPage = new XamarinHelloWorld.MainPage();
+
 		}
 
 		protected override void OnStart ()
