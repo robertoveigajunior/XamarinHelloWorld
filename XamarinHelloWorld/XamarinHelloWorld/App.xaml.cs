@@ -11,7 +11,6 @@ namespace XamarinHelloWorld
 	{
 		public App ()
 		{
-
 			InitializeComponent();
 			MainPage = new XamarinHelloWorld.MainPage();
 		}
